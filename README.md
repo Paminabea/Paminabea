@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Привет! Я Сергей (Paminabea)
 
-<!--
-**Paminabea/Paminabea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-assisted разработчик из Москвы** 🇷
 
-Here are some ideas to get you started:
+Создаю мобильные приложения и Telegram-ботов с использованием современных AI-инструментов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Мои проекты
+
+### 📱 Мобильные приложения
+- **📸 RetroCamV8** — ретро-камера с плёночными фильтрами  
+  [GitHub](https://github.com/Paminabea/retrocam-app) | [Скачать APK](https://github.com/Paminabea/retrocam-app/releases)
+
+- **🚀 Starshift** — космическая аркада  
+  [GitHub]() | [Скачать APK]()
+
+- **📅 Планировщик** — органайзер с трекером привычек  
+  [GitHub]() | [Скачать APK]()
+
+### 🤖 Telegram боты
+- **AiRu Bot** — многофункциональный бот с ИИ  
+  [GitHub]()
+
+---
+
+## 🛠 Мой стек
+Python • JavaScript • HTML5 • Git • Linux • AI Integration
+
+## 📬 Контакты
+- Email: paminabea@gmail.com
+- Telegram: [@paminabea](https://t.me/paminabea)
+- Сайт: https://paminabea.github.io
