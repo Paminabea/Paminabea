@@ -13,7 +13,7 @@
 * **📸 RetroCamV8**
   * 🇷🇺 Ретро-камера с аутентичными плёночными фильтрами, эффектами зернистости и встроенным редактором.
   * 🇬🇧 Vintage camera with authentic film filters, grain effects, and a built-in photo editor.
-  * 🔗 [Исходный код / Source](https://github.com/Paminabea/retrocam-app) • [📥 Скачать APK / Download APK](https://github.com/Paminabea/retrocam-app/releases)
+  * 🔗 [Исходный код / Source](https://github.com/Paminabea/retrocamera-app) • [📥 Скачать APK / Download APK](https://github.com/Paminabea/retrocamera-app/releases/download/v1.0.0/RetroCamera.apk)
 
 * **🚀 Starshift**
   * 🇷🇺 Космическая аркада с пиксельной эволюцией и системой прогресса.
