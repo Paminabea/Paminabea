@@ -20,10 +20,10 @@
   * 🇬🇧 Space arcade game with pixel art evolution and a progression system.
   * 🔗 [Исходный код / Source]() • [📥 Скачать APK / Download APK]()
 
-* **📅 Планировщик / Planner**
+* **📅 Планировщик / PlannerLife**
   * 🇷🇺 Удобный органайзер с календарём, аудио-заметками и трекером привычек.
   * 🇬🇧 Handy organizer with a calendar, audio notes, and a habit tracker.
-  * 🔗 [Исходный код / Source]() • [📥 Скачать APK / Download APK]()
+  * 🔗 [Исходный код / Source](https://github.com/Paminabea/plannerlife-app) • [📥 Скачать APK / Download APK](https://github.com/Paminabea/plannerlife-app/releases/download/v1.0.0/PlannerLife.apk)
 
 ### 🤖 Telegram-боты / Telegram Bots
 
