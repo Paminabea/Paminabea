@@ -1,8 +1,8 @@
 # 👋 Привет! Я Paminabea / Hi there, I'm Paminabea!
 
-> 🇷🇺 **AI-assisted разработчик из Москвы.** Создаю мобильные приложения и Telegram-ботов, интегрируя современные AI-инструменты для ускорения и улучшения качества кода. Активно ищу возможности для полностью удалённой работы.
+> 🇷🇺 **AI-assisted разработчик из Москвы.** Создаю мобильные приложения и ботов, интегрируя современные AI-инструменты для ускорения и улучшения качества кода. Активно ищу возможности для полностью удалённой работы.
 > 
-> 🇬🇧 **AI-assisted developer from Moscow.** I build mobile applications and Telegram bots, integrating modern AI tools to accelerate and improve code quality. Actively looking for fully remote work opportunities.
+> 🇬🇧 **AI-assisted developer from Moscow.** I build mobile applications and bots, integrating modern AI tools to accelerate and improve code quality. Actively looking for fully remote work opportunities.
 
 ---
 
