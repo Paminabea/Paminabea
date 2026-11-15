@@ -18,7 +18,7 @@
 * **🚀 Starshift**
   * 🇷🇺 Космическая аркада с пиксельной эволюцией и системой прогресса.
   * 🇬🇧 Space arcade game with pixel art evolution and a progression system.
-  * 🔗 [Исходный код / Source]() • [📥 Скачать APK / Download APK]()
+  * 🔗 [Исходный код / Source](https://github.com/Paminabea/Starshift-app) • [📥 Скачать APK / Download APK](https://github.com/Paminabea/Starshift-app/releases/download/v1.3/StarShift_V_1_3.apk)
 
 * **📅 Планировщик / PlannerLife**
   * 🇷🇺 Удобный органайзер с календарём, аудио-заметками и трекером привычек.
